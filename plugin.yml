@@ -1,0 +1,5 @@
+name: HealthTag
+author: Ynx
+version: 1.0
+api: 3.0.0
+main: Yanoox\healthTag
