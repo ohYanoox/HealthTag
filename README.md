@@ -3,7 +3,7 @@ HealthTag
 
 HealthTag is a simple plugin created by Yanoox for use in pocketmine software servers.
 
-This plugin displays the life point number of players below their nickname.
+This plugin displays the life point number of players below their nickname :D
 
 How to use ?
 ============
